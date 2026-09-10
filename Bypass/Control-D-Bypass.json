@@ -4,8 +4,7 @@
     "action": {
       "do": 1,
       "status": 1
-    },
-    "is_magic": 1
+    }
   },
   "rules": [
     {
