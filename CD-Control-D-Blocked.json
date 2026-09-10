@@ -1,0 +1,67 @@
+{
+  "group": {
+    "group": "Control D Blocked",
+    "action": {
+      "status": 1,
+      "do": 0
+    }
+  },
+  "rules": [
+    {
+      "PK": "apple-relay.cloudflare.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "apple-relay.fastly-edge.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "doh.dns.apple.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "doh.dns.apple.com.v.aaplimg.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mask-api.icloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mask-canary.icloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mask-h2.icloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mask.icloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    }
+  ]
+}
